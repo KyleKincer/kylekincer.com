@@ -1,7 +1,7 @@
 ---
 title: FWPD Scanner
 date: 2023/11/18
-description: Local police activity iOS app
+description: Local police activity iOS app in Swift/SwiftUI
 tag: Swift, SwiftUI, Python, Firebase, Firestore, Cloud Functions
 author: Kyle Kincer
 ---
