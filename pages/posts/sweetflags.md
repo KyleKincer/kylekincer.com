@@ -11,7 +11,7 @@ SweetFlags is an innovative feature flag and configuration service, optimized fo
 
 ### Links
 
-- [Live Demo](https://sweetflags.kylekincer.com)
+<!-- - [Live Demo](https://sweetflags.kylekincer.com) -->
 - [GitHub](https://github.com/KyleKincer/sweetflags)
 
 ## API
